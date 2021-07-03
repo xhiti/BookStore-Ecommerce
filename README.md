@@ -1,6 +1,8 @@
 # BookStore-Ecommerce
 BookStore Ecommerce with Admin Panel and Database
 
+### Complete E-Commerce - Java, Spring, Hibernate & MySQL
+
 This is a project about building a E-Commerce website using modern Java Full Stack technologies. Specifically, it's about building an online bookstore. 
 
 It's about bookstore, but the modules developed in the course is similar for all E-Commerce website. Those modules contains:
